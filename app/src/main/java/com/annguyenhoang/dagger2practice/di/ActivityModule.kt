@@ -1,7 +1,7 @@
 package com.annguyenhoang.dagger2practice.di
 
 import androidx.lifecycle.ViewModel
-import com.annguyenhoang.dagger2practice.TestViewModel
+import com.annguyenhoang.dagger2practice.notification.ui.TestViewModel
 import dagger.Binds
 import dagger.Module
 import dagger.multibindings.IntoMap

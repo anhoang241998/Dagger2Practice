@@ -1,4 +1,4 @@
-package com.annguyenhoang.dagger2practice
+package com.annguyenhoang.dagger2practice.notification.ui
 
 import android.os.Bundle
 import androidx.activity.enableEdgeToEdge
@@ -6,6 +6,8 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
 import androidx.lifecycle.ViewModelProvider
+import com.annguyenhoang.dagger2practice.App
+import com.annguyenhoang.dagger2practice.R
 import com.annguyenhoang.dagger2practice.databinding.ActivityMainBinding
 import com.annguyenhoang.dagger2practice.di.ViewModelFactory
 import javax.inject.Inject

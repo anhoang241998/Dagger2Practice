@@ -4,7 +4,7 @@ import android.app.Application
 import android.util.Log
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.ViewModelProvider
-import com.annguyenhoang.dagger2practice.TestViewModel
+import com.annguyenhoang.dagger2practice.notification.ui.TestViewModel
 import dagger.MapKey
 import javax.inject.Inject
 import javax.inject.Provider
